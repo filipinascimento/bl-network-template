@@ -1,7 +1,7 @@
 [![Abcdspec-compliant](https://img.shields.io/badge/ABCD_Spec-v1.1-green.svg)](https://github.com/brain-life/abcd-spec)
 <!-- [![Run on Brainlife.io](https://img.shields.io/badge/Brainlife-bl.app.1-blue.svg)](https://doi.org/10.25663/brainlife.app.435) -->
 
-# Network Results Template
+# Network Template
 Brainlife App template for network neuroscience. This is a sample App that loads a network and export the degree distribution as pdf. Fork or copy this repository and change `main.py` with your code.
 
 ### Authors
